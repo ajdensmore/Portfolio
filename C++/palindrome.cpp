@@ -1,5 +1,5 @@
 /*
-Given an integer find the closed palindrome
+Given an integer find the closest palindrome
    
 there can only be 3 cases:
 case1: the closest palindrome is one digit more. i.e., 9999 -> 10001

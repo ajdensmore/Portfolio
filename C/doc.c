@@ -1,5 +1,3 @@
-/* A program written in C that converts a raw text document into paragraphs, sentences, and words */
-
 typedef struct word word;
 typedef struct sentence sentence;
 typedef struct paragraph paragraph;
